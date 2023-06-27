@@ -9,7 +9,7 @@ body {
 }
 
 .navbar {
-  background-color: #1F6E8C;
+  background-color: #292a73;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -38,7 +38,7 @@ body {
 }
 
 .navbar .links a:hover {
-  color: #84A7A1;
+  color: #fffb02;
 }
 
 /* Dropdown styles */

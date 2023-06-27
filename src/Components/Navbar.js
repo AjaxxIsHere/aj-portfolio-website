@@ -54,7 +54,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <h1>Get to know more about AJ!</h1>
+      <h1>Hi Im AJ!</h1>
       <div className={`links ${showMenu ? 'show' : ''}`}>
         <Link to="/">Home</Link>
         <Link to="/portfolio">Portfolio</Link>
